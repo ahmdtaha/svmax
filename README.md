@@ -5,7 +5,8 @@ _Official_ implementation of **SVMax: A Feature Embedding Regularizer**. Paper w
 
 ## Release History
 * 1.0.0
-    * Add toy Tensorflow example on Feb 20
+    * Add a toy Tensorflow example on Feb 20, 2021
+    * Add a toy PyTorch example on Feb 21, 2021
 
 Contributor list
 ----------------
