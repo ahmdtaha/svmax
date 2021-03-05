@@ -2,11 +2,16 @@
 
 _Official_ implementation of **SVMax: A Feature Embedding Regularizer**. Paper will be added to arXiv soon.
 
+## Requirements
+
+* Python 3+ [Tested on 3.7]
+* Tensorflow 2.X [Tested on 2.0]
 
 ## Release History
 * 1.0.0
     * Add a toy Tensorflow example on Feb 20, 2021
     * Add a toy PyTorch example on Feb 21, 2021
+    * Add a toy MNIST project to the 2D unit circle on Mar 5, 2021
 
 Contributor list
 ----------------
