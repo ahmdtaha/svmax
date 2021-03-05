@@ -7,6 +7,9 @@ _Official_ implementation of **SVMax: A Feature Embedding Regularizer**. Paper w
 * Python 3+ [Tested on 3.7]
 * Tensorflow 2.X [Tested on 2.0]
 
+## Usage example
+The toy mnist script `mnist_embedding.py` is straight-forward to run -- no external dependencies. Set the variable `svmax_enabled` to turn SVMax On/Off.
+
 ## Release History
 * 1.0.0
     * Add a toy Tensorflow example on Feb 20, 2021
