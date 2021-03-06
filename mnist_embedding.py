@@ -92,7 +92,7 @@ def main():
     model = ToyModel(2)
     loss_object = contrastive.contrastive_loss
     
-    optimizer = tf.keras.optimizers.Adam(learning_rate=0.01)
+    optimizer = tf.keras.optimizers.SGD(learning_rate=0.01)
 
     train_loss = tf.keras.metrics.Mean(name='train_loss')
     
