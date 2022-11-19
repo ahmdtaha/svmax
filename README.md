@@ -1,6 +1,7 @@
 # SVMax: A Feature Embedding Regularizer
 
-_Official_ implementation of **SVMax: A Feature Embedding Regularizer**. Paper will be added to arXiv soon.
+The official implementation of [`SVMax: A Feature Embedding Regularizer`](https://arxiv.org/abs/2103.02770)
+
 
 ## Requirements
 
@@ -21,3 +22,15 @@ Contributor list
 1. [Ahmed Taha](http://www.ahmed-taha.com)
 2. [Alex Hanson](https://github.com/j-alex-hanson)
 
+
+
+### Citation
+
+```
+@article{taha2021svmax,
+  title={SVMax: A Feature Embedding Regularizer},
+  author={Taha, Ahmed and Hanson, Alex and Shrivastava, Abhinav and Davis, Larry},
+  journal={arXiv preprint arXiv:2103.02770},
+  year={2021}
+}
+```
