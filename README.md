@@ -1,7 +1,8 @@
 # SVMax: A Feature Embedding Regularizer
 
-The official implementation of [`SVMax: A Feature Embedding Regularizer`](https://arxiv.org/abs/2103.02770)
+The official implementation of [`SVMax: A Feature Embedding Regularizer`](https://arxiv.org/abs/2103.02770). Singular Value Maximization (SVMax) learns a more uniform feature embedding. The SVMax regularizer supports both supervised and unsupervised learning. Our formulation mitigates model collapse and enables larger learning rates.
 
+![Contrastive Learning with and without SVMax](./svmax_40.gif)
 
 ## Requirements
 
